@@ -1,0 +1,38 @@
+
+
+
+
+h1{
+  text-align: center;
+
+}
+
+/* Table css==========================*/
+table,caption,tr,th,td{
+  
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+.table_color{
+
+  background-color: red;
+}
+
+.table_alternative_color{
+  background-color: blue;
+}
+
+/*.copy{
+  position: relative;
+}*/
+
+.copy_next{
+  vertical-align: bottom;
+}
+
+.top_color{
+  
+  color: orangered;
+}
