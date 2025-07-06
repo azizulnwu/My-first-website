@@ -4,6 +4,9 @@
 
 h1{
   text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color:darkorange;
+  padding: 30px;
 
 }
 
@@ -24,12 +27,14 @@ table,caption,tr,th,td{
   background-color: blue;
 }
 
-/*.copy{
-  position: relative;
-}*/
+.copy{
+background-color:white;
+padding: 10px;
+}
 
 .copy_next{
   vertical-align: bottom;
+  
 }
 
 .top_color{
