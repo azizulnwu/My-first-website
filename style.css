@@ -7,6 +7,7 @@ h1{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color:darkorange;
   padding: 30px;
+  margin-bottom: 0px;
 
 }
 
@@ -40,13 +41,27 @@ padding: 10px;
 .top_color{
   
   color: orangered;
+  margin-bottom: 10px;
 }
 .img-position{
   margin-left: 50px;
   text-align: center;
 }
-/* .figcaptionText{
-  border: 2px solid red;
-  margin: 5px;
+ul  li a{
+  text-decoration: none;
   padding: 5px;
-} */
+}
+ul  li a:hover{
+  background-color:deeppink
+  
+}
+ul{
+  text-align: center;
+ 
+}
+ul li{
+  list-style: none;
+  display: inline;
+  margin: 4px 20px;
+  
+}
