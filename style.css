@@ -57,11 +57,17 @@ ul  li a:hover{
 }
 ul{
   text-align: center;
+  
  
 }
 ul li{
   list-style: none;
   display: inline;
-  margin: 4px 20px;
+  margin: 4px 22px;
+  font-size: 16px;
   
+  
+}
+.nau-container{
+  background-color: red;
 }
