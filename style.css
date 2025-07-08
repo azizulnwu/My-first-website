@@ -52,7 +52,8 @@ ul  li a{
   padding: 5px;
 }
 ul  li a:hover{
-  background-color:deeppink
+  background-color:deeppink;
+  border-radius: 5%;
   
 }
 ul{
@@ -63,7 +64,7 @@ ul{
 ul li{
   list-style: none;
   display: inline;
-  margin: 4px 22px;
+  margin: 4px 20px;
   font-size: 16px;
   
   
